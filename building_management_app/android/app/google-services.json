@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "36317622240",
+    "firebase_url": "https://building-management-app-9d5eb-default-rtdb.firebaseio.com",
+    "project_id": "building-management-app-9d5eb",
+    "storage_bucket": "building-management-app-9d5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36317622240:android:f53a6e2c0fe2f344fdc585",
+        "android_client_info": {
+          "package_name": "com.example.building_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEMGBB8_ZxFORG6-Ss7Jm_b2o8vzANPDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
